@@ -1,7 +1,6 @@
 {
   "name": "mega-form",
   "private": true,
-  "homepage": "https://gudrom.github.io/mega-form",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
