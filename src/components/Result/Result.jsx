@@ -77,6 +77,7 @@ const Result = () => {
         onClick={onSubmit}
         fullWidth
         variant="contained"
+        color="success"
         sx={{ margin: "10px 0 8px" }}
       >
         Submit
