@@ -21,15 +21,15 @@ const router = createBrowserRouter([
         element: <StepOne />,
       },
       {
-        path: "/step-two",
+        path: "step-two",
         element: <StepTwo />,
       },
       {
-        path: "/step-three",
+        path: "step-three",
         element: <StepThree />,
       },
       {
-        path: "/result",
+        path: "result",
         element: <Result />,
       },
     ],
